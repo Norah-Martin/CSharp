@@ -2,6 +2,7 @@
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Data.SqlTypes;
+using System.Diagnostics.CodeAnalysis;
 using System.Diagnostics.Eventing.Reader;
 using System.Linq;
 using System.Net;
@@ -497,45 +498,87 @@ namespace Assignment11
             //}
 
             //lab34---------calculate student grade
-            Console.WriteLine("Enter the marks of first subject: ");
-            int marks = int.Parse(Console.ReadLine());
-            Console.WriteLine("Enter the marks of second subject: ");
-            int marks1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Enter the marks of third subject: ");
-            int marks2 = int.Parse(Console.ReadLine());
-            int count = 0;
-            int avg = 0;
-            avg=(marks+marks1+marks2)/3;
-            if (marks <40)
-            {
-                count++;
-            }
-            if(marks1 <40)
-            {
-                count++;
-            }
-            if(marks2<40)
-            {
-                count++;
-            }
-            if(avg>=70)
-                {
-                    Console.WriteLine("** DISTINCTION **");
+            //Console.WriteLine("Enter the marks of first subject: ");
+            //int marks = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the marks of second subject: ");
+            //int marks1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the marks of third subject: ");
+            //int marks2 = int.Parse(Console.ReadLine());
+            //int count = 0;
+            //int avg = 0;
+            //avg=(marks+marks1+marks2)/3;
+            //if (marks <40)
+            //{
+            //    count++;
+            //}
+            //if(marks1 <40)
+            //{
+            //    count++;
+            //}
+            //if(marks2<40)
+            //{
+            //    count++;
+            //}
+            //if(avg>=70)
+            //    {
+            //        Console.WriteLine("** DISTINCTION **");
 
-                }
-            else if (count <= 3)
-            {
-                Console.WriteLine($"** FAILED : {count} subject **");
-            }
-            else
-            {
-                Console.WriteLine("** PASSED **");
-            }
+            //    }
+            //else if (count <= 3)
+            //{
+            //    Console.WriteLine($"** FAILED : {count} subject **");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("** PASSED **");
+            //}
+
+
+            //lab35----------salary and tax calculation
+            //Console.WriteLine("Enter the salary:");
+            //double sal = double.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the age: ");
+            //int age = int.Parse(Console.ReadLine());
+            //double tax;
+            //if (sal < 10000)
+            //{
+            //    Console.WriteLine("**No Tax**");
+
+            //}
+            //else if (sal >= 10000 && sal <= 50000)
+            //{
+            //    if (age >= 60)
+            //    {
+            //        tax = (sal * .01) - 5000;
+            //        Console.WriteLine($"Tax is: {tax}");
+            //    }
+            //    else
+            //    {
+            //        tax = sal * .01;
+            //        Console.WriteLine($"Tax is: {tax}");
+
+
+            //    }
+            //}
+            //else if (sal >= 50000)
+            //{
+            //    if (age >= 60)
+            //    {
+            //        tax = (sal * .02) - 5000;
+            //        Console.WriteLine($"Tax is: {tax}");
+            //    }
+            //    else
+            //    {
+            //        tax = sal * .02;
+            //        Console.WriteLine($"Tax is: {tax}");
+
+
+            //    }
+
+            //}
 
            
 
-            
-         
 
 
 

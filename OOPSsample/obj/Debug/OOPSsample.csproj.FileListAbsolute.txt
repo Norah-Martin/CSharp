@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\c#.net\visual studio\OOPSsample\obj\Debug\OOPSsample.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\OOPSsample\obj\Debug\OOPSsample.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\OOPSsample\bin\Debug\OOPSsample.exe.config
+C:\Users\ASUS\Desktop\c#.net\visual studio\OOPSsample\bin\Debug\OOPSsample.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\OOPSsample\bin\Debug\OOPSsample.pdb
+C:\Users\ASUS\Desktop\c#.net\visual studio\OOPSsample\obj\Debug\OOPSsample.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\OOPSsample\obj\Debug\OOPSsample.pdb

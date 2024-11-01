@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\c#.net\visual studio\log4net\bin\Release\log4net.exe.config
+C:\Users\ASUS\Desktop\c#.net\visual studio\log4net\bin\Release\log4net.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\log4net\bin\Release\log4net.pdb
+C:\Users\ASUS\Desktop\c#.net\visual studio\log4net\bin\Release\log4net.dll
+C:\Users\ASUS\Desktop\c#.net\visual studio\log4net\bin\Release\log4net.xml
+C:\Users\ASUS\Desktop\c#.net\visual studio\log4net\obj\Release\log4net.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\log4net\obj\Release\log4net.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\log4net\obj\Release\log4net.csproj.Up2Date
+C:\Users\ASUS\Desktop\c#.net\visual studio\log4net\obj\Release\log4net.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\log4net\obj\Release\log4net.pdb

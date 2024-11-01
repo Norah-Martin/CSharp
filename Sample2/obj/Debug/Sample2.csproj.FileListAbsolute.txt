@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\c#.net\visual studio\Sample2\obj\Debug\Sample2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\Sample2\obj\Debug\Sample2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\Sample2\bin\Debug\Sample2.exe.config
+C:\Users\ASUS\Desktop\c#.net\visual studio\Sample2\bin\Debug\Sample2.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\Sample2\bin\Debug\Sample2.pdb
+C:\Users\ASUS\Desktop\c#.net\visual studio\Sample2\obj\Debug\Sample2.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\Sample2\obj\Debug\Sample2.pdb

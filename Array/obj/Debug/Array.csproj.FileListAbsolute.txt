@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\c#.net\visual studio\Array\bin\Debug\Array.exe.config
+C:\Users\ASUS\Desktop\c#.net\visual studio\Array\bin\Debug\Array.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\Array\bin\Debug\Array.pdb
+C:\Users\ASUS\Desktop\c#.net\visual studio\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\Array\obj\Debug\Array.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\Array\obj\Debug\Array.pdb

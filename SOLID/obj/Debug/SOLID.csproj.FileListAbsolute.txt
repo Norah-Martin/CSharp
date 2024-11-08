@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\c#.net\visual studio\SOLID\bin\Debug\SOLID.exe.config
+C:\Users\ASUS\Desktop\c#.net\visual studio\SOLID\bin\Debug\SOLID.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\SOLID\bin\Debug\SOLID.pdb
+C:\Users\ASUS\Desktop\c#.net\visual studio\SOLID\obj\Debug\SOLID.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\SOLID\obj\Debug\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\SOLID\obj\Debug\SOLID.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\SOLID\obj\Debug\SOLID.pdb

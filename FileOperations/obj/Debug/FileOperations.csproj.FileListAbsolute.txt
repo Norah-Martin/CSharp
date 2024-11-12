@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\c#.net\visual studio\FileOperations\bin\Debug\FileOperations.exe.config
+C:\Users\ASUS\Desktop\c#.net\visual studio\FileOperations\bin\Debug\FileOperations.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\FileOperations\bin\Debug\FileOperations.pdb
+C:\Users\ASUS\Desktop\c#.net\visual studio\FileOperations\obj\Debug\FileOperations.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\FileOperations\obj\Debug\FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\FileOperations\obj\Debug\FileOperations.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\FileOperations\obj\Debug\FileOperations.pdb
